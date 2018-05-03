@@ -1,3 +1,3 @@
 # Dear Diary
 
-##### following prettyprinted.com's tutorial
+##### following prettyprinted.com's Django tutorial
